@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{30169DB3-4FC9-C9C4-3551-CE93E5A9FF9E}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "MetallBall",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
